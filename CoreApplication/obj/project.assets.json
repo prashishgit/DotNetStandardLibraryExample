@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoreClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CoreClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CoreClassLibrary.dll": {}
+        }
+      },
+      "DotnetStandardClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DotnetStandardClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DotnetStandardClassLibrary.dll": {}
+        }
+      },
+      "FrameworkClassLibrary/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/FrameworkClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FrameworkClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CoreClassLibrary/CoreClassLibrary.csproj",
+      "msbuildProject": "../CoreClassLibrary/CoreClassLibrary.csproj"
+    },
+    "DotnetStandardClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../DotnetStandardClassLibrary/DotnetStandardClassLibrary.csproj",
+      "msbuildProject": "../DotnetStandardClassLibrary/DotnetStandardClassLibrary.csproj"
+    },
+    "FrameworkClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../FrameworkClassLibrary/FrameworkClassLibrary.csproj",
+      "msbuildProject": "../FrameworkClassLibrary/FrameworkClassLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CoreClassLibrary >= 1.0.0",
+      "DotnetStandardClassLibrary >= 1.0.0",
+      "FrameworkClassLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\bijay.kushwaha\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\bijay.kushwaha\\Desktop\\Donet\\Projects\\FrameworkConsole\\CoreApplication\\CoreApplication.csproj",
+      "projectName": "CoreApplication",
+      "projectPath": "C:\\Users\\bijay.kushwaha\\Desktop\\Donet\\Projects\\FrameworkConsole\\CoreApplication\\CoreApplication.csproj",
+      "packagesPath": "C:\\Users\\bijay.kushwaha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bijay.kushwaha\\Desktop\\Donet\\Projects\\FrameworkConsole\\CoreApplication\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\bijay.kushwaha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\bijay.kushwaha\\Desktop\\Donet\\Projects\\FrameworkConsole\\CoreClassLibrary\\CoreClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\bijay.kushwaha\\Desktop\\Donet\\Projects\\FrameworkConsole\\CoreClassLibrary\\CoreClassLibrary.csproj"
+            },
+            "C:\\Users\\bijay.kushwaha\\Desktop\\Donet\\Projects\\FrameworkConsole\\DotnetStandardClassLibrary\\DotnetStandardClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\bijay.kushwaha\\Desktop\\Donet\\Projects\\FrameworkConsole\\DotnetStandardClassLibrary\\DotnetStandardClassLibrary.csproj"
+            },
+            "C:\\Users\\bijay.kushwaha\\Desktop\\Donet\\Projects\\FrameworkConsole\\FrameworkClassLibrary\\FrameworkClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\bijay.kushwaha\\Desktop\\Donet\\Projects\\FrameworkConsole\\FrameworkClassLibrary\\FrameworkClassLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

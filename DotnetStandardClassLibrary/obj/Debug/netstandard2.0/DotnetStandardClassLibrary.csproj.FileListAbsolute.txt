@@ -1,0 +1,10 @@
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\DotnetStandardClassLibrary\bin\Debug\netstandard2.0\DotnetStandardClassLibrary.deps.json
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\DotnetStandardClassLibrary\bin\Debug\netstandard2.0\DotnetStandardClassLibrary.dll
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\DotnetStandardClassLibrary\bin\Debug\netstandard2.0\DotnetStandardClassLibrary.pdb
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\DotnetStandardClassLibrary\obj\Debug\netstandard2.0\DotnetStandardClassLibrary.csproj.AssemblyReference.cache
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\DotnetStandardClassLibrary\obj\Debug\netstandard2.0\DotnetStandardClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\DotnetStandardClassLibrary\obj\Debug\netstandard2.0\DotnetStandardClassLibrary.AssemblyInfoInputs.cache
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\DotnetStandardClassLibrary\obj\Debug\netstandard2.0\DotnetStandardClassLibrary.AssemblyInfo.cs
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\DotnetStandardClassLibrary\obj\Debug\netstandard2.0\DotnetStandardClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\DotnetStandardClassLibrary\obj\Debug\netstandard2.0\DotnetStandardClassLibrary.dll
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\DotnetStandardClassLibrary\obj\Debug\netstandard2.0\DotnetStandardClassLibrary.pdb

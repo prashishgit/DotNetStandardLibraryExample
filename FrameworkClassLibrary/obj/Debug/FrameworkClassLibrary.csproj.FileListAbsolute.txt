@@ -1,0 +1,6 @@
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkClassLibrary\bin\Debug\FrameworkClassLibrary.dll
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkClassLibrary\bin\Debug\FrameworkClassLibrary.pdb
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkClassLibrary\obj\Debug\FrameworkClassLibrary.csproj.AssemblyReference.cache
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkClassLibrary\obj\Debug\FrameworkClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkClassLibrary\obj\Debug\FrameworkClassLibrary.dll
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkClassLibrary\obj\Debug\FrameworkClassLibrary.pdb

@@ -1,0 +1,11 @@
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkConsole\bin\Debug\FrameworkConsole.exe.config
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkConsole\bin\Debug\FrameworkConsole.exe
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkConsole\bin\Debug\FrameworkConsole.pdb
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkConsole\obj\Debug\FrameworkConsole.csproj.AssemblyReference.cache
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkConsole\obj\Debug\FrameworkConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkConsole\obj\Debug\FrameworkConsole.csproj.CoreCompileInputs.cache
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkConsole\obj\Debug\FrameworkConsole.exe
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkConsole\obj\Debug\FrameworkConsole.pdb
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkConsole\bin\Debug\FrameworkClassLibrary.dll
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkConsole\bin\Debug\FrameworkClassLibrary.pdb
+C:\Users\bijay.kushwaha\Desktop\Donet\Projects\FrameworkConsole\FrameworkConsole\obj\Debug\FrameworkConsole.csproj.CopyComplete
